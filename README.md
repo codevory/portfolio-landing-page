@@ -10,7 +10,7 @@ Welcome to my **responsive personal portfolio landing page**, crafted entirely f
 
 ## 🚀 Live Demo
 
-👉 **[Click here to view the live project](https://your-username.github.io/your-repo-name/)**  
+👉 **[Click here to view the live project](https://codevory.github.io/portfolio-landing-page/)**  
 *(replace with your actual link)*
 
 ---
