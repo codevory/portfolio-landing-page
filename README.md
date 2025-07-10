@@ -37,7 +37,7 @@ Welcome to my **responsive personal portfolio landing page**, crafted entirely f
 
 | Desktop | Mobile |
 |--------|--------|
-| ![desktop](./screenshots/desktop-preview.png) | ![mobile](./screenshots/mobile-preview.png) |
+| ![desktop](Desktop.png) | ![mobile](mobile-size.png) |
 
 *(Add screenshots inside a `screenshots/` folder and update the path above)*
 
