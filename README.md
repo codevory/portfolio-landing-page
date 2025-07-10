@@ -43,5 +43,36 @@ Welcome to my **responsive personal portfolio landing page**, crafted entirely f
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure<br>
+📦 portfolio-landing-page<br>
+├── 📁 images<br>
+├── 📁 screenshots<br>
+├── 📄 index.html<br>
+├── 📄 style.css<br>
+└── 📄 README.md<br>
+<hr>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I’m **Shahijahan**, a passionate self-taught frontend developer and full-stack developer in progress 🚀  
+I’m on a mission to **create real-world projects**, learn deeply, and empower others with tools that matter.
+
+- 🐦 [Twitter (X): @shahijahanQ](https://x.com/shahijahanQ)  
+- 💼 [LinkedIn](https://linkedin.com/in/shahijahan-pedhar)
+
+---
+
+## 📝 License
+
+This project is open-source and free to use.  
+You can contribute, fork, or reuse any part of this for learning or personal use.
+
+---
+
+## ⭐ Star This Repo
+
+If this project inspired or helped you, please consider dropping a ⭐ — it really motivates me to keep building.
+
 
