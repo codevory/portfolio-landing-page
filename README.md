@@ -1,20 +1,47 @@
-# My Portfolio Landing Page 🌐
+# 🌐 Shahijahan's Portfolio Landing Page
 
-This is a fully responsive HTML/CSS portfolio landing page made from scratch.
+Welcome to my **responsive personal portfolio landing page**, crafted entirely from scratch using **HTML5 & CSS3** — no templates, no frameworks, just pure frontend magic.
 
-## 🛠 Features
-- Fully responsive
-- Clean UI/UX
-- Built using HTML5 and CSS3
-- Custom design (no templates)
+![Banner](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS-blueviolet?style=for-the-badge)  
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge)
 
-## 🌍 Live Preview
-[Click here to see live](https://your-username.github.io/your-repo-name/)
+---
+
+## 🚀 Live Demo
+
+👉 **[Click here to view the live project](https://your-username.github.io/your-repo-name/)**  
+*(replace with your actual link)*
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 **HTML5**
+- 🎨 **CSS3 (Flexbox, Media Queries)**
+- 🌐 Fully responsive across all screen sizes (320px → 1920px+)
+
+---
+
+## 🎯 Features
+
+- ✅ Modern & clean UI
+- ✅ Fully responsive design
+- ✅ Mobile-first approach
+- ✅ Semantic HTML structure
+- ✅ Pure CSS animations (no libraries used)
+
+---
 
 ## 📸 Screenshots
-*(Add screenshots of your site if you want)*
 
-## 🙋‍♂️ Author
-Shahijahan  
-- [Twitter](https://x.com/shahijahanQ)  
-- [LinkedIn](https://linkedin.com/in/shahijahan-pedhar)
+| Desktop | Mobile |
+|--------|--------|
+| ![desktop](./screenshots/desktop-preview.png) | ![mobile](./screenshots/mobile-preview.png) |
+
+*(Add screenshots inside a `screenshots/` folder and update the path above)*
+
+---
+
+## 📁 Folder Structure
+
