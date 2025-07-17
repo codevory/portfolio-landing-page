@@ -297,6 +297,7 @@ p{
 .left p{
     text-align: center;
     margin:10px;
+    color:rgb(0, 0, 0);
 }
 .right{
     max-width:500px;
@@ -313,15 +314,17 @@ p{
     background-color:#1a1a1d;
     border:2px solid;
     border-radius: 12px;
+    margin-bottom:auto;
 }
 
 .skills-icons{
     display: flex;
     justify-content:center;
     align-items: center;
-    flex-direction: row;
-    gap:30px;
-    margin-top: 20px;
+    flex-direction: column;
+    gap:10px;
+    margin-bottom: 10px;
+    font-size:20px !important;
 }
 
 .skill{
@@ -333,7 +336,7 @@ display: flex;
   color: #222;
 }
 .skill i {
-  font-size: 48px;
+  font-size: 32px;
   margin-bottom: 8px;
 }
 
@@ -351,6 +354,7 @@ display: flex;
     background-color: var(--background-color);
     border:1px solid;
     border-radius: 14px;
+    color:black;
 }
 .card1{
     width:300px;
@@ -479,7 +483,7 @@ display: flex;
     gap:25px;
 }
 .cta img{
-    width:180px;
+    width:150px;
     height: auto;
 }
 /* Footer Menu */
@@ -671,6 +675,13 @@ display: flex;
 .container2{
     margin-bottom: 10px;
 }
+.skills-icons{
+    display:flex;
+    justify-content: cnter;
+    align-content: center;
+    flex-direction: row;
+    margin:30px;
+}
 }
 
 @media(max-width:600px){
@@ -799,7 +810,7 @@ display: flex;
     gap:7px;
   }
   .cta img{
-    width:80px;
+    width:60px;
   }
 .left-cont2 h2{
     font-size:13px !important;
@@ -830,8 +841,7 @@ display: flex;
     gap:10px;
 }
 .cta img{
-    max-width:40px;
-    width:100%;
+    width:40px;
 }
 .secondary-btn{
     font-size: 5px;
@@ -855,4 +865,48 @@ display: flex;
     margin-block: 70px;
 
 }
+#p1{
+    font-size: 15px;
 }
+}
+
+#themetoggle {
+  color: white;
+  background-color: rgb(255, 255, 255);
+  width: 60px;
+  height: 35px;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  font-size: 30px;
+  margin-bottom:20px;
+}
+.dark-color{
+    background-color:#0d0d0d;
+    color:white;
+}
+.light-color{
+    background-color:white;
+    color:black;
+}
+.top{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-right:40px;
+    margin-bottom: 30px;
+    /* width: 100%; */;
+}
+.top button{
+    /* margin-bottom:28px;
+    margin-left: 20px; */
+    font-size:25px;
+}
+
+.top p{
+    font-size:1.1rem;
+    color: #000000;
+    font-style: italic;
+    background-color:lightpink;
+}
+
