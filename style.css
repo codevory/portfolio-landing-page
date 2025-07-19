@@ -870,7 +870,7 @@ display: flex;
 }
 }
 
-#themetoggle {
+/* #themetoggle {
   color: white;
   background-color:transparent;
   width: 60px;
@@ -880,7 +880,7 @@ display: flex;
   cursor: pointer;
   font-size: 30px;
   margin-bottom:20px;
-}
+} */
 .dark-color{
     background-color:#0d0d0d;
     color:white;
@@ -901,6 +901,9 @@ display: flex;
     /* margin-bottom:28px;
     margin-left: 20px; */
     font-size:25px;
+    border:2px;
+    border-radius:50%;
+    background-color:transparent;
 }
 
 .top p{
