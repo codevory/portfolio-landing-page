@@ -872,7 +872,7 @@ display: flex;
 
 #themetoggle {
   color: white;
-  background-color: rgb(255, 255, 255);
+  background-color:transparent;
   width: 60px;
   height: 35px;
   border: none;
