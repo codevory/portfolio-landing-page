@@ -54,6 +54,7 @@ p{
     gap:40%;
     background-color: var(--background-color);
     font-family:var(--font-family);
+    border-radius:12px;
 }
 .nav-links ul{
     display: flex;
@@ -378,8 +379,10 @@ display: flex;
 .card1 h2{
     text-align: center;
     color:var(--accent-color);
-    background-color: #222;
-    font-size: 1.5rem;
+    background-color: #000000;
+     font-size: 16px;
+    font-weight:400;
+    padding:4px;
     border:1px solid;
     border-radius: 10px;
     width:80%;
@@ -402,7 +405,7 @@ display: flex;
     align-items: center;
     flex-direction: column;
     gap:8px;
-    background-color: #21c493;
+    background-color: #2183c4;
     border:2px solid;
     border-radius: 12px;
     transition:all 0.25s ease-in-out;
@@ -418,7 +421,9 @@ display: flex;
     text-align: center;
     color:white;
     background-color: #000000;
-    font-size: 1.5rem;
+    font-size: 16px;
+    font-weight:400;
+    padding:4px;
     border:1px solid;
     border-radius: 11px;
     width:80%;
@@ -456,9 +461,11 @@ display: flex;
 }
 .card3 h2{
     text-align: center;
-    color:rgb(111, 66, 185);
-    background-color: #ffffff;
-    font-size: 1.5rem;
+    color:rgb(255, 255, 255);
+    background-color: #000000;
+     font-size: 16px;
+    font-weight:400;
+    padding:4px;
     border:1px solid;
     border-radius: 11px;
     width:80%;
@@ -690,6 +697,51 @@ display: flex;
     flex-direction: row;
     margin:30px;
 }
+.ftr-menu h3{
+font-size:13px;
+}
+.ftr-menu ul{
+    font-size:12px;
+}
+.privacy-links h3{
+font-size:13px;
+}
+.privacy-links ul{
+    font-size:12px;
+}
+.project-links h3{
+    font-size:13px;
+}
+.project-links ul{
+    font-size:12px;
+    margin:3px;
+}
+.left h2{
+    font-size:13px;
+    font-weight:200;
+    padding:3px;
+    text-align: center;
+
+}
+.left p{
+    font-size:12px;
+    padding:2px;
+    margin:4px;
+    font-style: oblique;
+}
+.right h2{
+    font-size:13px;
+    font-weight:200;
+    padding:5px;
+    text-align: center;
+}
+.skill {
+    font-size:11px;
+    gap:6px;
+}
+.skill i{
+    gap:6px;
+}
 }
 
 @media(max-width:600px){
@@ -724,12 +776,12 @@ display: flex;
         font-size: 11px;
     }
   .cta{
-    gap:5px;
-    width:100%;
+    gap:3px;
+    width:90%;
     height:auto;
   }
   .cta img{
-    max-width:40px;
+    max-width:35px;
     width:100%;
   }
 .left-cont2 h2{
@@ -758,8 +810,10 @@ display: flex;
     width:15%;
 }
 .cta img{
-    max-width:100px;
+    max-width:70px;
     width:100%;
+    margin:2px;
+    padding:2px;
 }
 .secondary-btn{
     font-size: 10px;
