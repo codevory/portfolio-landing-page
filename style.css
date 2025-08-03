@@ -127,15 +127,17 @@ p{
     flex-direction: column;
     gap:6px;
     color : white;
+    box-shadow : 0 8px 30px rgba(0,0,0,0.47);
+    font-size:bold;
 }
 .left-cont li:nth-child(1){
-    background-color: #4535d9;
+/*     background-color: #4535d9; */
 }
 .left-cont li:nth-child(2){
-    background-color: green;
+/*     background-color: green; */
 }
 .left-cont li:nth-child(3){
-    background-color: #ff3700;
+/*     background-color: #ff3700; */
 }
 .left-cont ul:hover{
     transform: scale(1.06);
@@ -977,5 +979,6 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
 
