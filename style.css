@@ -126,19 +126,19 @@ p{
     justify-content: center;
     flex-direction: column;
     gap:6px;
-    color : black;
-    box-shadow : 0 8px 20px rgba(0,0,0,0.1);
+    color : white;
+/*     box-shadow : 0 8px 20px rgba(0,0,0,0.1); */
     font-size:bolder;
-    font-weight:500;
+    font-weight:600;
 }
 .left-cont li:nth-child(1){
-/*     background-color: #4535d9; */
+    background-color: black;
 }
 .left-cont li:nth-child(2){
-/*     background-color: green; */
+    background-color: black;
 }
 .left-cont li:nth-child(3){
-/*     background-color: #ff3700; */
+    background-color: black;
 }
 .left-cont ul:hover{
     transform: scale(1.06);
@@ -982,6 +982,7 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
 
 
