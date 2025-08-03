@@ -212,21 +212,26 @@ p{
    display: flex;
     justify-content: center;
     flex-direction: column;
-    gap:6px;
-    box-shadow : 0 8px 20px rgba(0,0,0,0.15);
-    font-size:bolder;
-    font-weight:500;
-    height:auto;
+    gap:10px;
+    color:white;
+    font-family: -apple-system, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 .left-cont2 li:nth-child(1) span{
-/*     background-color: #0da317; */
+    background-color: #658667;
+    padding:3px;
+    border-radius: 6px;
 }
 .left-cont2 li:nth-child(2) span{
-/*     background-color: rgb(86, 17, 165); */
+    background-color: rgb(56, 8, 107);
+    padding:3px;
+    border-radius: 6px;
 }
 .left-cont2 li:nth-child(3) span{
-/*     background-color: #a10f19; */
+    background-color: #8d4918;
+    padding:3px;
+    border-radius: 6px;
 }
 
 .secondary-btn{
@@ -986,6 +991,7 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
 
 
