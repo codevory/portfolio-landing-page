@@ -130,7 +130,7 @@ p{
 /*     box-shadow : 0 8px 20px rgba(0,0,0,0.1); */
     font-size:bolder;
     font-weight:600;
-    box-radius : 12px;
+    border-radius : 12px;
 }
 .left-cont li:nth-child(1){
     background-color: black;
@@ -983,6 +983,7 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
 
 
