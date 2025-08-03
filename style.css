@@ -126,6 +126,7 @@ p{
     justify-content: center;
     flex-direction: column;
     gap:6px;
+    color : white;
 }
 .left-cont li:nth-child(1){
     background-color: #4535d9;
@@ -205,16 +206,18 @@ p{
     justify-content: center;
     flex-direction: column;
     gap:8px;
+    box-shadow : 0 8px 30px rgba(0,0,0,0.47);
+    font-size:bold;
 }
 
 .left-cont2 li:nth-child(1) span{
-    background-color: #0da317;
+/*     background-color: #0da317; */
 }
 .left-cont2 li:nth-child(2) span{
-    background-color: rgb(86, 17, 165);
+/*     background-color: rgb(86, 17, 165); */
 }
 .left-cont2 li:nth-child(3) span{
-    background-color: #a10f19;
+/*     background-color: #a10f19; */
 }
 
 .secondary-btn{
@@ -974,4 +977,5 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
