@@ -126,9 +126,10 @@ p{
     justify-content: center;
     flex-direction: column;
     gap:6px;
-    color : white;
-    box-shadow : 0 8px 30px rgba(0,0,0,0.47);
-    font-size:bold;
+    color : black;
+    box-shadow : 0 8px 20px rgba(0,0,0,0.1);
+    font-size:bolder;
+    font-weight:500;
 }
 .left-cont li:nth-child(1){
 /*     background-color: #4535d9; */
@@ -207,9 +208,10 @@ p{
    display: flex;
     justify-content: center;
     flex-direction: column;
-    gap:8px;
-    box-shadow : 0 8px 30px rgba(0,0,0,0.2);
+    gap:6px;
+    box-shadow : 0 8px 20px rgba(0,0,0,0.15);
     font-size:bolder;
+    font-weight:500;
     height:auto;
 }
 
@@ -980,6 +982,7 @@ font-size:13px;
     font-style: italic;
     background-color:lightpink;
 }
+
 
 
 
