@@ -11,7 +11,7 @@ Welcome to my **responsive personal portfolio landing page**, crafted entirely f
 ## 🚀 Live Demo
 
 👉 **[Click here to view the live project](https://codevory.github.io/portfolio-landing-page/)**  
-*(replace with your actual link)*
+
 
 ---
 
@@ -39,7 +39,6 @@ Welcome to my **responsive personal portfolio landing page**, crafted entirely f
 |--------|--------|
 | ![desktop](Desktop.png) | ![mobile](mobile-size.png) |
 
-*(Add screenshots inside a `screenshots/` folder and update the path above)*
 
 ---
 
