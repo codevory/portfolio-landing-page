@@ -995,7 +995,7 @@ font-size:13px;
 
 
 /* New area */
-
+/* 
 body{
   background-color:#ffffff;
   position:relative;
@@ -1009,7 +1009,7 @@ body{
   color:#ffffff;
   height:100vh;
   margin:0;
-}
+} */
 
 .toggleContainer{
   position:absolute;
@@ -1056,6 +1056,7 @@ body.dark-mode .slider {
   color: lightgrey;
   background-color: #2c2c2c;
 }
+
 
 
 
