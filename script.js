@@ -4,10 +4,11 @@ toggleBtn.addEventListener('click',() => {
     document.body.classList.toggle('dark-color')
     toggleBtn.textContent = 
     document.body.classList.contains("dark-color") ? "🌙" : "🌞";
-    // document.body.classList.contains("dark-color") ? "🌞" : "🌙";
+  
 }
   )
 
 // New area
+
 
 
